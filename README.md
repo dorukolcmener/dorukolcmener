@@ -4,11 +4,7 @@ Product development engineer with agile and curious mindset, utilizing ux princi
 
 ### My hobbies:
 
-🏊 Swimming,
-♟️ Chess,
-🎮 RC Vehicles,
-💭 Philosophy,
-⛰️ Hiking
+#### 🏊 Swimming, ♟️ Chess, 🎮 RC Vehicles, 💭 Philosophy, ⛰️ Hiking
 
 ### My top languages:
 
