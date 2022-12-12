@@ -6,14 +6,6 @@ Product development engineer with agile and curious mindset 🧠, utilizing ux p
 💭 Philosophy,
 ⛰️ Hiking. I study my masters degree at Istanbul Technical University Computational Sci. and Eng. Dept. 🧑‍💻
 
-### My hobbies:
-
-🏊 Swimming,
-♟️ Chess,
-🎮 RC Vehicles,
-💭 Philosophy,
-⛰️ Hiking
-
 ### My top languages:
 
 <img height="32" width="32" src="https://cdn.simpleicons.org/javascript" />, <img height="32" width="32" src="https://cdn.simpleicons.org/go" />, <img height="32" width="32" src="https://cdn.simpleicons.org/python" />, <img height="32" width="32" src="https://cdn.simpleicons.org/fortran" />, <img height="32" width="32" src="https://cdn.simpleicons.org/cplusplus" />
