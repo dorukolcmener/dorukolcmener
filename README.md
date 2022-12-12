@@ -1,6 +1,10 @@
 ### Summary
 
-Product development engineer with agile and curious mindset, utilizing ux principles at work. My features skills are analytical thinking, problem solving and creativity. Currently working as a product development engineer, responsible of lifecycle of front end components. (Mitigating risks, tracking feasibility/target/weight/cost, planning CAE analyses/physical tests, working w/ cross functional teams.) I study my masters degree at Istanbul Technical University Computational Sci. and Eng. Dept.
+Product development engineer with agile and curious mindset 🧠, utilizing ux principles at work 🚀. My features skills are analytical thinking, problem solving and creativity. My hobbies are 🏊 Swimming,
+♟️ Chess,
+🎮 RC Vehicles,
+💭 Philosophy,
+⛰️ Hiking. I study my masters degree at Istanbul Technical University Computational Sci. and Eng. Dept. 🧑‍💻
 
 ### My hobbies:
 
