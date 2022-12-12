@@ -4,7 +4,11 @@ Product development engineer with agile and curious mindset, utilizing ux princi
 
 ### My hobbies:
 
-#### 🏊 Swimming, ♟️ Chess, 🎮 RC Vehicles, 💭 Philosophy, ⛰️ Hiking
+🏊 Swimming,
+♟️ Chess,
+🎮 RC Vehicles,
+💭 Philosophy,
+⛰️ Hiking
 
 ### My top languages:
 
@@ -12,7 +16,7 @@ Product development engineer with agile and curious mindset, utilizing ux princi
 
 ### My favourite tools/frameworks/dbs etc.:
 
-<img height="32" width="32" src="https://cdn.simpleicons.org/nodedotjs" />, <img height="32" width="32" src="https://cdn.simpleicons.org/oracle" />, <img height="32" width="32" src="https://cdn.simpleicons.org/mongodb" />, <img height="32" width="32" src="https://cdn.simpleicons.org/nginx" />, <img height="32" width="32" src="https://cdn.simpleicons.org/tableau" />, <img height="32" width="32" src="https://cdn.simpleicons.org/firebase" />
+<img height="32" width="32" src="https://cdn.simpleicons.org/react" />, <img height="32" width="32" src="https://cdn.simpleicons.org/nodedotjs" />, <img height="32" width="32" src="https://cdn.simpleicons.org/oracle" />, <img height="32" width="32" src="https://cdn.simpleicons.org/mongodb" />, <img height="32" width="32" src="https://cdn.simpleicons.org/nginx" />, <img height="32" width="32" src="https://cdn.simpleicons.org/tableau" />, <img height="32" width="32" src="https://cdn.simpleicons.org/firebase" />
 
 ### You can reach me via:
 
