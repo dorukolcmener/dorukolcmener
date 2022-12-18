@@ -8,22 +8,22 @@ Product development engineer with agile and curious mindset 🧠, utilizing ux p
 
 ### My top languages:
 
-<img height="20" width="20" src="assets/icons/javascript.svg" />,
-<img height="20" width="20" src="assets/icons/go.svg" />,
-<img height="20" width="20" src="assets/icons/python.svg" />,
-<img height="20" width="20" src="assets/icons/fortran.svg" />,
-<img height="20" width="20" src="assets/icons/cplusplus.svg" />
+<img height="25" width="25" src="assets/icons/javascript.svg" />,
+<img height="25" width="25" src="assets/icons/go.svg" />,
+<img height="25" width="25" src="assets/icons/python.svg" />,
+<img height="25" width="25" src="assets/icons/fortran.svg" />,
+<img height="25" width="25" src="assets/icons/cplusplus.svg" />
 
 ### My favourite tools/frameworks/dbs etc.:
 
-<img height="20" width="20" src="assets/icons/react.svg" />,
-<img height="20" width="20" src="assets/icons/tensorflow.svg" />,
-<img height="20" width="20" src="assets/icons/nodedotjs.svg" />,
-<img height="20" width="20" src="assets/icons/oracle.svg" />,
-<img height="20" width="20" src="assets/icons/mongodb.svg" />,
-<img height="20" width="20" src="assets/icons/nginx.svg" />,
-<img height="20" width="20" src="assets/icons/tableau.svg" />,
-<img height="20" width="20" src="assets/icons/firebase.svg" />
+<img height="25" width="25" src="assets/icons/react.svg" />,
+<img height="25" width="25" src="assets/icons/tensorflow.svg" />,
+<img height="25" width="25" src="assets/icons/nodedotjs.svg" />,
+<img height="25" width="25" src="assets/icons/oracle.svg" />,
+<img height="25" width="25" src="assets/icons/mongodb.svg" />,
+<img height="25" width="25" src="assets/icons/nginx.svg" />,
+<img height="25" width="25" src="assets/icons/tableau.svg" />,
+<img height="25" width="25" src="assets/icons/firebase.svg" />
 
 ### Communication channels:
 
@@ -37,11 +37,12 @@ Product development engineer with agile and curious mindset 🧠, utilizing ux p
     <img src="assets/icons/patika.svg" height=20/>
 </a>
 
+<!--
 ### Scan to connect:
 
 <img height="250" width="250" src="assets/profileQR.jpg" />
 
-<!--
+
 **dorukolcmener/dorukolcmener** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
