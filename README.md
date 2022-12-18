@@ -8,16 +8,38 @@ Product development engineer with agile and curious mindset 🧠, utilizing ux p
 
 ### My top languages:
 
-<img height="32" width="32" src="https://cdn.simpleicons.org/javascript" />, <img height="32" width="32" src="https://cdn.simpleicons.org/go" />, <img height="32" width="32" src="https://cdn.simpleicons.org/python" />, <img height="32" width="32" src="https://cdn.simpleicons.org/fortran" />, <img height="32" width="32" src="https://cdn.simpleicons.org/cplusplus" />
+<img height="20" width="20" src="assets/icons/javascript.svg" />,
+<img height="20" width="20" src="assets/icons/go.svg" />,
+<img height="20" width="20" src="assets/icons/python.svg" />,
+<img height="20" width="20" src="assets/icons/fortran.svg" />,
+<img height="20" width="20" src="assets/icons/cplusplus.svg" />
 
 ### My favourite tools/frameworks/dbs etc.:
 
-<img height="32" width="32" src="https://cdn.simpleicons.org/react" />, <img height="32" width="32" src="https://cdn.simpleicons.org/tensorflow" />, <img height="32" width="32" src="https://cdn.simpleicons.org/nodedotjs" />, <img height="32" width="32" src="https://cdn.simpleicons.org/oracle" />, <img height="32" width="32" src="https://cdn.simpleicons.org/mongodb" />, <img height="32" width="32" src="https://cdn.simpleicons.org/nginx" />, <img height="32" width="32" src="https://cdn.simpleicons.org/tableau" />, <img height="32" width="32" src="https://cdn.simpleicons.org/firebase" />
+<img height="20" width="20" src="assets/icons/react.svg" />,
+<img height="20" width="20" src="assets/icons/tensorflow.svg" />,
+<img height="20" width="20" src="assets/icons/nodedotjs.svg" />,
+<img height="20" width="20" src="assets/icons/oracle.svg" />,
+<img height="20" width="20" src="assets/icons/mongodb.svg" />,
+<img height="20" width="20" src="assets/icons/nginx.svg" />,
+<img height="20" width="20" src="assets/icons/tableau.svg" />,
+<img height="20" width="20" src="assets/icons/firebase.svg" />
 
-### You can reach me via:
+### Communication channels:
 
-<a href="https://linkedin.com/in/dorukolcmener/"><img height="32" width="32" src="https://cdn.simpleicons.org/linkedin" /></a>
-<a href="https://lichess.org/@/dorukovic">, <img height="32" width="32" src="https://cdn.simpleicons.org/lichess/grey" /></a>
+<a href="https://www.linkedin.com/in/dorukolcmener/">
+    <img src="assets/icons/linkedin.png" height=20 />
+</a> &emsp;
+<a href="https://lichess.org/@/dorukovic">
+    <img src="assets/icons/lichess.svg" height=30 />
+</a> &emsp;
+<a href="https://app.patika.dev/kaolin">
+    <img src="assets/icons/patika.svg" height=20/>
+</a>
+
+### Scan to connect:
+
+<img height="250" width="250" src="assets/profileQR.jpg" />
 
 <!--
 **dorukolcmener/dorukolcmener** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
