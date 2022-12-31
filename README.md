@@ -14,7 +14,7 @@ Product development engineer with agile and curious mindset 🧠, utilizing ux p
 <img height="25" width="25" src="assets/icons/fortran.svg" />,
 <img height="25" width="25" src="assets/icons/cplusplus.svg" />
 
-### My favourite tools/frameworks/dbs etc.:
+### My favourite tools/frameworks/dbms etc.:
 
 <img height="25" width="25" src="assets/icons/react.svg" />,
 <img height="25" width="25" src="assets/icons/tensorflow.svg" />,
