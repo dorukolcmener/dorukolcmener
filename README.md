@@ -4,7 +4,7 @@ Product development engineer with agile and curious mindset 🧠, utilizing ux p
 ♟️ Chess,
 🎮 RC Vehicles,
 💭 Philosophy,
-⛰️ Hiking. I study my masters degree at Istanbul Technical University Computational Sci. and Eng. Dept. 🧑‍💻
+⛰️ Hiking.
 
 ### My top languages:
 
