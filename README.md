@@ -33,9 +33,6 @@ Product development engineer with agile and curious mindset 🧠, utilizing ux p
 <a href="https://discord.com/users/772126247685718036" target="_blank">
     <img src="assets/icons/discord.svg" height=25/>
 </a> &emsp;
-<a href="https://app.patika.dev/kaolin" target="_blank">
-    <img src="assets/icons/patika.svg" height=20/>
-</a> &emsp;
 <a href="https://lichess.org/@/dorukovic" target="_blank">
     <img src="assets/icons/lichess.svg" height=30 />
 </a>
